@@ -1,0 +1,8 @@
+{
+  "name": "plxel",
+  "version": "1.0.0",
+  "bin": {
+    "plxel": "index.js"
+  },
+  "dependencies": {}
+}
