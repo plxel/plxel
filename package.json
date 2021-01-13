@@ -4,5 +4,7 @@
   "bin": {
     "plxel": "index.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
 }
