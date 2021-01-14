@@ -10,6 +10,8 @@ const skills = {
 const combo = Object.keys(skills).join('+')
 console.log(combo === 💪) // true
 ```
+
+To get more info run `npx plxel`
 <!--
 **plxel/plxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
