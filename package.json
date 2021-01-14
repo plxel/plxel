@@ -5,6 +5,18 @@
     "plxel": "index.js"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
+  },
+  "keywords": [
+    "plxel",
+    "cv"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "plxel/plxel",
+  "author": {
+    "name": "Alexey Mikhaylov",
+    "email": "alexeym.vn@gmail.com",
+    "url": "https://github.com/plxel"
   }
 }

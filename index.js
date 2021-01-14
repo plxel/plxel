@@ -1,4 +1,13 @@
 #!/usr/bin/env node
-const clearConsole = require("clear-any-console")
-clearConsole();
-console.log(`Alexey Mikhaylov`);
+const welcome = require('cli-welcome');
+const packageJson = require('./package.json')
+
+welcome({
+	title: packageJson.name,
+	tagLine: `by Alexey Mikhaylov`,
+	bgColor: `#FADC00`,
+	color: `#000000`,
+	bold: true,
+	clear: true,
+	version: packageJson.version,
+});
