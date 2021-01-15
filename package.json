@@ -5,7 +5,9 @@
     "plxel": "index.js"
   },
   "dependencies": {
-    "cli-welcome": "^2.2.2"
+    "chalk": "^4.1.0",
+    "cli-welcome": "^2.2.2",
+    "log-symbols": "^4.0.0"
   },
   "keywords": [
     "plxel",
